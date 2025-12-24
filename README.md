@@ -6,14 +6,11 @@
 
 📲 Hub: https://t.me/kriszzyy (𝗞𝘆𝘇𝗥𝘆𝘇𝘇) 
 
-🌐 Maker: https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q
+🌐 Maker: [![WhatsApp Channel](https://railway.app/button.svg)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)
 
 •═══════════════════════
 
-[![-----------------------------------------------------](https://l.top4top.io/p_3643uv90x1.jpg)
-<p align="center">
-    <img src="https://l.top4top.io/p_3643uv90x1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+[![-----------------------------------------------------]!]
 
 ## PENTING
 
@@ -23,7 +20,7 @@
 <h1 align="center">MarinBOT - MD</h1>
 
 <p align="center">
- <a href="#"><img title="MarinBOT" src="https://l.top4top.io/p_3643uv90x1.jpg"></a>
+ <a href="#"><img title="MarinBOT" src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1766582582092.jpeg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/KriszzTzy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KriszzTzy-green.svg?style=for-the-badge&logo=github"></a>
