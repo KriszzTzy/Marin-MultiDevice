@@ -1,14 +1,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-═════════•°•⚠️•°•═════════•
+═══════════•°•⚠️•°•═══════════•
 
 [❗] Ingin Full Code No Enc??
 
-📲 Hub: https://t.me/kriszzyy (𝗞𝘆𝘇𝗥𝘆𝘇𝘇) 
+📲 Hub: **[Kriszz Hayanasi](https://t.me/kriszzyy)** (𝗞𝗿𝗶𝘀𝘇𝘇𝘆𝘆) 
 
-🌐 Maker: [![WhatsApp Channel](https://railway.app/button.svg)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)
+🌐 Maker: **[WhatsApp Channel](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)**
 
-•═══════════════════════
+•═══════════════════════════
 
 [![-----------------------------------------------------]!]
 
@@ -27,7 +27,7 @@
 
 ---------
 
-### a little about this bot
+### sedikit info tentang bot ini
 - ✔️ | Simple
 - ✔️ | Menfess
 - ✔️ | AntiCall
@@ -185,7 +185,7 @@ conn.sendButton(m.chat, 'Hello world!', '@Kriszzyy', 'https://github.com/KriszzT
 * [`All Friends`]
 * [`All Contributors`]
 * [`All Creator Bot`]
-* [`Baileys Support`](https://npmjs.com/package/@rexxhayanasi-elaina/baileys)
+* [`Baileys Support`](https://npmjs.com/package/@rexxhayanasi/elaina-baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`Fokus ID`](https://github.com/Fokusdotid) 
