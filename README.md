@@ -1,5 +1,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Marin%20Kitagawa%20|%20WhatsApp%20Bot&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
+</div>
+  
+  <!-- Stars dan Forks -->
+  [![Stars](https://img.shields.io/github/stars/KriszzTzy/Music-Bot?style=for-the-badge&color=63a4ff)](https://github.com/KriszzTzy/Marin-MultiDevice/stargazers)
+  [![Forks](https://img.shields.io/github/forks/KriszzTzy/Marin-MultiDevice?style=for-the-badge&color=63a4ff)](https://github.com/KriszzTzy/Marin-MultiDevice/network/members)
+
+</div>
+
 ═══════════•°•⚠️•°•═══════════•
 
 [❗] Ingin Full Code No Enc??
@@ -12,7 +22,7 @@
 
 ## PENTING
 
-> **Warning**: Jangan Memperjual Belikan Script Ini.
+> Jangan Memperjual Belikan Script Ini.
 
 [![-------------------------------------------------------------]!]
 
