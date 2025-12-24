@@ -37,18 +37,21 @@
 
 ---------
 
-### sedikit info tentang bot ini
-- ✔️ | Simple
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
-- ✔️ | Button
+## ✨ Tentang Marin - MultiDevice
+
+Marin MultiDevice adalah WhatsApp Bot Multi Device berbasis **Baileys** dengan tampilan modern, stabil, dan modular. Cocok untuk personal maupun komunitas. Dan mudah dipahami.
+
+---
+
+## 🚀 Fitur Unggulan
+
+| System | Entertainment | Utility |
+|------------|---------------|---------|
+| Anti Call | Anime | Tools |
+| Menfess | Quotes | Premium |
+| Multi Device | Sticker | Kerang Ajaib |
+| Auto AI | NSFW | Downloader |
+
 ---------
  
 ## ```USER RAILWAY```
