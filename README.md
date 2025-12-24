@@ -194,13 +194,21 @@ conn.sendButton(m.chat, 'Hello world!', '@Kriszzyy', 'https://github.com/KriszzT
 
 ## ```Thanks to ✨```
 * [`Allah SWT`]
-* [`My parents`]
 * [`All Friends`]
 * [`All Contributors`]
 * [`All Creator Bot`]
 * [`Baileys Support`](https://npmjs.com/package/@rexxhayanasi/elaina-baileys)
+* [`ImYanXiao`](https://github.com/ImYanXiao)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`Fokus ID`](https://github.com/Fokusdotid) 
+
+---
+
+**☄️ Made with by community.**
+
+*© 2025 Marin Kitagawa - WhatsApp Bot Automation.*
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
