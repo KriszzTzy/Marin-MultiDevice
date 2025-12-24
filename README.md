@@ -20,9 +20,10 @@
 
 •═══════════════════════════
 
-## PENTING
+## PENTING !
 
 > Jangan Memperjual Belikan Script Ini.
+**Untuk siapa pun yang ketahuan menjual script ini tanpa sepengetahuan developer mohon untuk dilaporkan !**
 
 [![-------------------------------------------------------------]!]
 
