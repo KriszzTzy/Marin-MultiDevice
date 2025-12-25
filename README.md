@@ -53,15 +53,6 @@ Marin MultiDevice adalah WhatsApp Bot Multi Device berbasis **Baileys** dengan t
 | Auto AI | NSFW | Downloader |
 
 ---------
- 
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
-
----------
 ## FOR WINDOWS/RDP USER 💻
 
 Install this tool first before running the script
@@ -79,7 +70,7 @@ Install this tool first before running the script
 * apt install nodejs imagemagick ffmpeg -y
 * node -v 
 * if the version is still under 17, use this step
-* curl -s https://deb.nodesource.com/setup_19.x | sudo bash
+* curl -s https://deb.nodesource.com/setup_20.x | sudo bash
 * apt-get install -y nodejs
 
 ----------
