@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Marin%20Kitagawa%20|%20WhatsApp%20Bot&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
@@ -20,12 +22,6 @@
 
 •═══════════════════════════
 
-## PENTING !
-
-> Jangan Memperjual Belikan Script Ini.
-**Untuk siapa pun yang ketahuan menjual script ini tanpa sepengetahuan developer mohon untuk dilaporkan !**
-
-[![-------------------------------------------------------------]!]
 
 <h1 align="center">MarinBOT - MD</h1>
 
@@ -34,6 +30,14 @@
 </p>
 <p align="center">
 <a href="https://github.com/KriszzTzy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KriszzTzy-green.svg?style=for-the-badge&logo=github"></a>
+
+--------
+## PENTING !
+
+> Jangan Memperjual Belikan Script Ini.
+**Untuk siapa pun yang ketahuan menjual script ini tanpa sepengetahuan developer mohon untuk dilaporkan !**
+
+[![-------------------------------------------------------------]!]
 
 ---------
 
